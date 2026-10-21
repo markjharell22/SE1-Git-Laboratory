@@ -2,12 +2,13 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 40px 20px;
-  background-color: #f4f6f8;
-  color: #333333;
+  background-color: #fff8f0;
+  color: #2b2b2b;
 }
 
 h1 {
   text-align: center;
+  color: #d35400;
   margin-bottom: 8px;
 }
 
@@ -34,7 +35,11 @@ button {
   font-size: 16px;
   border: none;
   border-radius: 6px;
-  background-color: #2f5d8c;
+  background-color: #d35400;
   color: #ffffff;
   cursor: pointer;
+}
+
+button:hover {
+  background-color: #a04000;
 }

@@ -1,4 +1,4 @@
-# SE1-Git-Laboratory – PrintEase Homepage
+# SE1-Git-Laboratory – Prinnting Management Services Homepage
 
 ## Purpose
 Simple homepage ng isang printing service (PrintEase) na ginawa para sa Software Engineering 1 Git & GitHub Laboratory. Ginamit ito para i-practice ang commit, branch, merge, at pull request.
@@ -6,16 +6,16 @@ Simple homepage ng isang printing service (PrintEase) na ginawa para sa Software
 ## Features
 - Listahan ng printing services (B&W, colored, photocopy at scanning)
 - Styled na layout gamit ang CSS
-- "Click to Start" button na nagpapakita ng welcome message na may greeting depende sa oras
+- "Click to Start" button na nagpapakita ng welcome message
 
 ## Setup / How to run
 1. I-clone ang repository:
-   git clone <repository-url>
+   git clone https://github.com/markjharell22/SE1-Git-Laboratory.git
 2. Buksan ang folder sa VS Code.
-3. I-open ang index.html sa browser (double-click, o gamitin ang Live Server extension).
+3. I-open ang index.html sa browser (right-click > Open with > Chrome o Edge).
 
 ## Files
 - index.html – structure ng homepage
 - style.css – design at theme colors
 - script.js – button interaction
-- .gitignore – files na hindi dapat i-commit (.env, node_modules/, vendor/, *.log)
+- .gitignore – files na hindi dapat i-commit (.env, node_modules/, vendor/, *.log, desktop.ini)
